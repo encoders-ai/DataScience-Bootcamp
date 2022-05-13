@@ -22,7 +22,7 @@
  * Dedication and zeal to learn
 
 ### Timeline
- Course starts: 23 of May
+ Course starts: 30 of May
 
 ### Syllabus
  There are seven modules in the course.Each Module consists of lessons and assignments. Each lesson is 90 to 120 Minutes long.
