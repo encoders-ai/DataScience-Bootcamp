@@ -198,4 +198,4 @@ Instructor: **Syed Mohammad Nasir Hussain**
   - Ada Delta & RMSProp
   - Adam
 
-Instructor: ** Shriman Narayan**
+Instructor: **Shriman Narayan**
