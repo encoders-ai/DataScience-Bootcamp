@@ -2,6 +2,11 @@
 # DataScience Bootcamp
 
 ## Our Data Science Bootcamp Course
+* https://www.linkedin.com/in/encoders-ai-8b775723a/ **-- Linkedin**
+* https://instagram.com/encoders.ai?igshid=YmMyMTA2M2Y= **-- Instagram**
+* https://github.com/encoders-ai **-- Github**
+* encoders.ai@gmail.com **-- Gmail**
+* https://www.youtube.com/channel/UC8rFSpGAe_W-gAK3_EM9m9A **-- Youtube**
 
 ## Overview
 
