@@ -18,7 +18,7 @@
  Course starts: 23 of May
 
 ### Syllabus
- There are five modules in the course.Each Module consists of lessons and assignments. Each lesson is 90 to 120 Minutes long.
+ There are six modules in the course.Each Module consists of lessons and assignments. Each lesson is 90 to 120 Minutes long.
 
 ### Module 1:Introduction 
 * What is Data Science
@@ -127,3 +127,37 @@ Instructor: **Lalit Pal**
 
 Instructor: **Shyam Jadhav**
 
+### Module 4:Machine Learning
+
+* What is Machine Learning
+* What is Regression and Classification
+* What is Supervised and Unsupervised Learning
+* Supervised Learning Algorithms
+  - Simple Linear Regression
+  - Multiple Linear Regression
+  - Ridge and Lasso Regression
+  - Elastic Net Regression
+  - Logistic Regression
+  - K Nearest Neighbor
+  - Decision Tree 
+  - Random Forest
+  - Ada Boost
+  - Gradient Boost
+  - Extreme Gradient Boost(XGB)
+  - Naive Bayes
+* Unsupervised Learning Algorithms
+  - Hierarchical Clustering
+  - K Means Clustering
+  - Dimensionality Reduction
+* Exploratory Data Analysis
+* Feature Engineering Techniques
+   - Imputation
+   - Categorical Encoding
+   - Handling Outliers
+   - Variable Transformations
+   - Scaling
+   - Creating Features
+* Feature Selection Techniques
+**Note:** For every algorithm will do different projects.
+
+Instructor: **Syed Mohammad Nasir Hussain**
