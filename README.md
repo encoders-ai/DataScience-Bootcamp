@@ -211,7 +211,6 @@ Instructor: **Syed Mohammad Nasir Hussain**
 Instructor: **Shriman Narayan**
 
 ### Module 6:Computer Vision
-Introduction to Tensorflow, PyTorch, MxNet
 * Introduction to Convolution
 * Architectures 
   - LeNet
