@@ -126,7 +126,7 @@ Instructor: **Lalit Pal**
 
 **Note:** Implement all the above topics using Python
 
-Instructor: **Shyam Jadhav**
+Instructor: **Shyam Jadhav/Syed Mohammad Nasir Hussain**
 
 ### Module 4:Machine Learning
 
