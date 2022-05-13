@@ -204,3 +204,37 @@ Instructor: **Syed Mohammad Nasir Hussain**
   - Adam
 
 Instructor: **Shriman Narayan**
+
+### Module 6:Computer Vision
+Introduction to Tensorflow, PyTorch, MxNet
+* Introduction to Convolution
+* Architectures 
+  - LeNet
+  - AlexNet
+  - VGGNet
+  - ResNet
+  - InceptionNet
+  - GoogLeNet
+  - Transfer learning
+* Object Detection
+  - RCNN
+  - Fast RCNN
+  - Faster RCNN
+  - Yolo
+  - SSD
+* Introduction to Segmentation
+  - Mask RCNN
+  - U-Net
+  - YOLO-ACT++
+  - SOLO
+* Objects Tracking with SORT, DEEP SORT, Kalmann Filtering
+* Image Generation with GANs, multiple GANs variants
+* **Hands on Session :**
+  - Image Classification with Transfer learning
+  - Object Detection with Yolo, Detectron2
+  - Image Segmentation using Detectron2, PyTorch
+  - Generating Images using GANs model
+
+**Note:** For every algorithm will do a project.
+
+Instructor: **Shriman Narayan**
