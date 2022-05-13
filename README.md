@@ -163,3 +163,39 @@ Instructor: **Shyam Jadhav**
 **Note:** For every algorithm will do different projects.
 
 Instructor: **Syed Mohammad Nasir Hussain**
+
+### Module 5:Deep Learning
+
+* What is Deep learning
+* what is Neural Network
+* Different Types of Neural Networks
+* Artificial Neural Network Architecture
+* ANN Working
+* Activation Functions
+  - Sigmoid
+  - Threshold
+  - Tanh
+  - ELU 
+  - RELU
+  - PRELU
+  - Swish RELU
+  - Soft Plus
+  - Soft Max
+* ANN Back Propagation
+* Chain Rule
+* Vanishing Gradient
+* Exploding Gradient
+* Drop Out & Regularization
+* Weight Initialization Techniques
+  - Uniform Distribution
+  - Xavier/Gorat
+  - He Initialization
+* Local Minima vs Global Minima
+* Optimisers
+  - SGD 
+  - SGD with Momentum
+  - Adaptive Gradient
+  - Ada Delta & RMSProp
+  - Adam
+
+Instructor: ** Shriman Narayan**
