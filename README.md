@@ -71,4 +71,5 @@ Instructor: **Syed Mohammad Nasir Hussain**
 * NumPy and its operations
 * Pandas and its operations
 * Matplotlib and Seaborn
+
 Instructor: **Lalit Pal**
