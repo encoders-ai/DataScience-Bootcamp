@@ -8,6 +8,8 @@
 * encoders.ai@gmail.com **-- Gmail**
 * https://www.youtube.com/channel/UC8rFSpGAe_W-gAK3_EM9m9A **-- Youtube**
 * https://join.slack.com/t/encodersai/shared_invite/zt-18upzjlkm-~HniySD9RFxdW1wIl49k9Q **-- Slack**
+* https://t.me/+cxqOWSap5X8zODk9 **-- Telegram**
+
 ## Overview
 
 ### Objective
@@ -53,7 +55,7 @@ Instructor: **Syed Mohammad Nasir Hussain**
     - Lists
     - Dictionaries
     - Sets
-    
+
 **Methods:** Type Specific and Sequence operations
 
 * Control Flow
