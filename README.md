@@ -260,7 +260,7 @@ Module 7:NLP
   - Bi-LSTM
   - Stacked RNN
 * Encoders
-* Decoder
+* Decoders
 * Attention function
 * Introduction to Transformers
   - GPT
