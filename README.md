@@ -79,3 +79,50 @@ Instructor: **Syed Mohammad Nasir Hussain**
 * Pandas and its operations
 * Matplotlib and Seaborn
 Instructor: **Lalit Pal**
+
+### Module 3:Statistics
+* What is Statistics
+* Data Types
+  - Qualitative
+  - Quantitative
+* Sub Data Types
+  - Nominal
+  - Ordinal
+  - Interval
+  - Ratio
+* Random Variable
+* Probability and Probability Distribution
+* Sampling Theory
+* Measures of Central Tendency
+  - Mean
+  - Median
+  - Mode
+* Measures of Dispersion
+  - Variance
+  - Standard Deviation
+  - Range
+* Skewness
+* Kurtosis
+* Difference between Population and Sample for all Measures
+* Box Plot and Outliers
+* Distribution
+  - Uniform
+  - Bernoulli
+  - Binomial
+  - Poisson
+  - Normal
+* Standardization and Normalization
+* Normal Probability Plot
+* Sampling Variation
+* Confidence Interval
+* Z Score and T score
+* Hypothesis Testing
+   - T Test
+   - Anova Test
+   - Chi Square Test
+* Central Limit Theorem
+* Correlation Analysis based on data types
+**Note:** Implement all the above topics using Python
+
+Instructor: **Shyam Jadhav**
+
