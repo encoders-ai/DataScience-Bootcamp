@@ -1,5 +1,5 @@
 
-# DataScience-Bootcamp
+# DataScience Bootcamp
 
 ## Our Data Science Bootcamp Course
 
