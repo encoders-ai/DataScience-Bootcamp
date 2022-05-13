@@ -68,8 +68,14 @@ Instructor: **Syed Mohammad Nasir Hussain**
   - Map
   - Reduce
 * Understand what is Package or library and create basic package
+* OOPS
+  - Encapsulation
+  - Inheritance
+  - Polymorphism
+  - Abstraction
+
+* Exception Handling
 * NumPy and its operations
 * Pandas and its operations
 * Matplotlib and Seaborn
-
 Instructor: **Lalit Pal**
