@@ -159,6 +159,7 @@ Instructor: **Shyam Jadhav**
    - Scaling
    - Creating Features
 * Feature Selection Techniques
+
 **Note:** For every algorithm will do different projects.
 
 Instructor: **Syed Mohammad Nasir Hussain**
