@@ -53,6 +53,7 @@ Instructor: **Syed Mohammad Nasir Hussain**
     - Lists
     - Dictionaries
     - Sets
+    
 **Methods:** Type Specific and Sequence operations
 
 * Control Flow
@@ -260,7 +261,7 @@ Module 7:NLP
   - Bi-LSTM
   - Stacked RNN
 * Encoders
-* Decoders
+* Decoder
 * Attention function
 * Introduction to Transformers
   - GPT
