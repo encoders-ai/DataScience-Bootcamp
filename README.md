@@ -122,6 +122,7 @@ Instructor: **Lalit Pal**
    - Chi Square Test
 * Central Limit Theorem
 * Correlation Analysis based on data types
+
 **Note:** Implement all the above topics using Python
 
 Instructor: **Shyam Jadhav**
