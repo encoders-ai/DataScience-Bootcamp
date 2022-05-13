@@ -23,7 +23,7 @@
  Course starts: 23 of May
 
 ### Syllabus
- There are six modules in the course.Each Module consists of lessons and assignments. Each lesson is 90 to 120 Minutes long.
+ There are seven modules in the course.Each Module consists of lessons and assignments. Each lesson is 90 to 120 Minutes long.
 
 ### Module 1:Introduction 
 * What is Data Science
@@ -165,7 +165,7 @@ Instructor: **Shyam Jadhav/Syed Mohammad Nasir Hussain**
    - Creating Features
 * Feature Selection Techniques
 
-**Note:** For every algorithm will do different projects.
+**Note:** For every algorithm will do a project.
 
 Instructor: **Syed Mohammad Nasir Hussain**
 
@@ -203,6 +203,8 @@ Instructor: **Syed Mohammad Nasir Hussain**
   - Ada Delta & RMSProp
   - Adam
 
+**Note:** For every algorithm will do a project.
+
 Instructor: **Shriman Narayan**
 
 ### Module 6:Computer Vision
@@ -235,6 +237,46 @@ Introduction to Tensorflow, PyTorch, MxNet
   - Image Segmentation using Detectron2, PyTorch
   - Generating Images using GANs model
 
+**Note:** For every algorithm will do a project.
+
+Instructor: **Shriman Narayan**
+
+
+Module 7:NLP
+
+* Introduction to NLP and it’s use-cases
+* Text pre-processing with NLTK, SPACY
+* Word Embeddings
+  - Tf-idf
+  - Bow
+  - skip-gram
+  - word2vector
+  - doc2vector
+* RNN models
+  - LSTM
+  - PeepHole
+  - GRU
+  - Depth GRU
+  - Bi-LSTM
+  - Stacked RNN
+* Encoders
+* Decoder
+* Attention function
+* Introduction to Transformers
+  - GPT
+  - ELMo
+  - Bert
+  - AlBert
+  - RoBerta
+  - DistilBert
+  - T5
+  - Electra
+* **Hands on Session :**
+  * Text classification using Bi-LSTM
+  * Text summarization with BerTSum
+  * Text – Generation with GPT, Bert variants
+  * Language translation using Transformers
+  
 **Note:** For every algorithm will do a project.
 
 Instructor: **Shriman Narayan**
